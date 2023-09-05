@@ -1,0 +1,8 @@
+corral queso $16000
+****tomate $1000.0
+corral queso $16000
+****tomate $1000.0
+agua cristal sin gas $5000
+Valor neto total: 39000.0
+IVA(19%): 7410.0
+Total (neto + IVA): 46410.0
